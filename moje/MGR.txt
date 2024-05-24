@@ -1,0 +1,27 @@
+Rozdział 0. Wstęp
+
+Rozdział I: Wprowadzenie do Generatywnego AI
+Definicja Generatywnego AI
+Przegląd technologii i algorytmów Generatywnego AI
+Zastosowania Generatywnego AI
+
+
+Rozdział III: Ryzyka w Generatywnym AI
+Przegląd krajobrazu ryzyka Generatywnego AI
+Szczegółowa analiza potencjalnych ryzyk i ich implikacji
+Jak te ryzyka mogą mieć wpływ na rzeczywistość
+Potencjalne zagrożenia i skutki
+Etyczne i społeczne implikacje
+
+Rozdział IV: Bezpieczeństwo w Generatywnym AI
+Implementacja ramy bezpieczeństwa dla systemów Generatywnego AI
+Kluczowe wyzwania do pokonania
+Techniki oceny i poprawy postawy bezpieczeństwa systemu Generatywnego AI
+
+Rozdział V: Studium przypadku - ankieta na zadany temat, wykonanie statystyki, wyciagniecie wnioskow itp
+Cel i znaczenie badania
+
+Rozdział VI: Podsumowanie i wnioski
+Podsumowanie wyników badania
+Wnioski i rekomendacje dla przyszłych badań
+Przegląd literatury
